@@ -22,8 +22,5 @@
     "issues":         "https://github.com/pattern-lab/styleguidekit-twig-default/issues",
     "wiki":           "http://patternlab.io/docs/",
     "source":         "https://github.com/pattern-lab/styleguidekit-twig-default/releases"
-  },
-  "require": {
-    "pattern-lab/styleguidekit-assets-default": "^3.0.0"
   }
 }
